@@ -5,7 +5,7 @@
 
 ## Timeline
 
-[Detailed Log] (https://aswin.tech/DSALearning/log)
+[Detailed Log](https://aswin.tech/DSALearning/log)
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
