@@ -6,3 +6,5 @@ relative_links:
 include:
   - README.md
   - log.md
+
+theme: jekyll-theme-cayman
