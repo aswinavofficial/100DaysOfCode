@@ -33,7 +33,7 @@
 **Thoughts** 
 
 **Link(s) to work**
-2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+1. [LeetCode - Move Zeroes - Array Easy](https://leetcode.com/problems/move-zeroes/)
 
 
 
