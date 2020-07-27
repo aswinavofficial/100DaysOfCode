@@ -3,16 +3,37 @@
 **Aswin A V**  
 *Software Engineer* 
 
-## Timeline
 
-[Detailed Log](https://aswin.tech/DSALearning/log)
+### Day 1: July 25, Saturday
 
-|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------|-----------------|--------------------|---------------------|
-|Day 1|Jul 25, 2020| Learnt Kadane's Algo & Morris Voting Algorithm| [Link](https://www.geeksforgeeks.org/majority-element/)|
-|Day 2|Jul 26, 2021| Learnt Window sliding technique| [Link](https://www.geeksforgeeks.org/window-sliding-technique/)|
-|Day 3|Jul 27, 2021| LeetCode problem practice| [Link](https://leetcode.com/problems/move-zeroes/)|
+**Today's Progress**: I've learnt Kadane's Algorithm & Morris Voting Algorithm
 
+**Thoughts** I will be following DFS approach in learning as suggested by Raj Thakur.In first week,I will learn techniques in solving Array datastructure based problems.
+
+**Link(s) to work**
+1. [Morris Voting Algorithm](https://www.geeksforgeeks.org/majority-element/)
+2. [Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+2. [Raj Thakur](https://www.linkedin.com/in/raj-thakur-39756838/)
+
+
+### Day 2: July 26, Sunday
+
+**Today's Progress**: I've learnt Windows sliding technique
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Window Sliding Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+2. [PracticeQ1](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
+
+### Day 2: July 27, Monday
+
+**Today's Progress**: LeetCode Practice - Array Easy
+
+**Thoughts** 
+
+**Link(s) to work**
+2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
 
