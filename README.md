@@ -43,6 +43,7 @@
 
 **Link(s) to work**
 1. [LeetCode - Remove Element - Array Easy](https://leetcode.com/problems/remove-element/)
+2. [LeetCode - Plus One - Array Easy](https://leetcode.com/problems/plus-one/)
 
 
 
