@@ -35,6 +35,15 @@
 **Link(s) to work**
 1. [LeetCode - Move Zeroes - Array Easy](https://leetcode.com/problems/move-zeroes/)
 
+### Day 3: July 28, Tuesday
+
+**Today's Progress**: LeetCode Practice - Array Easy
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [LeetCode - Remove Element - Array Easy](https://leetcode.com/problems/remove-element/)
+
 
 
 
