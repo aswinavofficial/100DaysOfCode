@@ -44,6 +44,8 @@
 **Link(s) to work**
 1. [LeetCode - Remove Element - Array Easy](https://leetcode.com/problems/remove-element/)
 2. [LeetCode - Plus One - Array Easy](https://leetcode.com/problems/plus-one/)
+2. [LeetCode - Merge Sorted Array - Array Easy](https://leetcode.com/problems/merge-sorted-array) Time: 00 : 22 : 46
+
 
 
 
