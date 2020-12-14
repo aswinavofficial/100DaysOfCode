@@ -46,6 +46,16 @@
 2. [LeetCode - Plus One - Array Easy](https://leetcode.com/problems/plus-one/)
 2. [LeetCode - Merge Sorted Array - Array Easy](https://leetcode.com/problems/merge-sorted-array) Time: 00 : 22 : 46
 
+### Day 4: Dec 14, Monday
+
+**Today's Progress**: LeetCode Practice - Longest Increasing Subsequence
+
+**Thoughts** 
+
+
+**Link(s) to work**
+1. [LeetCode - Longest Increasing Subsequence](https://leetcode.com/problems/increasing-subsequences/)
+
 
 
 
