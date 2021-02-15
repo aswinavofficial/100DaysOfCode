@@ -1,0 +1,12 @@
+https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/
+
+
+class Solution:
+    def maximumProduct(self, nums: List[int]) -> int:
+        
+        nums.sort()
+        r1 = nums[-1] * nums[-2] * nums[-3]
+        r2 = nums[0] * nums[1] * nums[-1]
+        
+        return max(r1,r2)
+        
