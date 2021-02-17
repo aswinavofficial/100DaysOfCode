@@ -72,6 +72,18 @@ class Solution:
                 return False
         return True
             
+       
+       
+       https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+       
+       class Solution:
+    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        l = []
+        for i in matrix:
+            l = l + i
+            
+        l.sort()
+        return l[k-1]
         
             
         
